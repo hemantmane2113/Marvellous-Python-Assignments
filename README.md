@@ -1,1 +1,1 @@
-You will see all the Assignments related to "Python with machine learning,deep learning, GenAI with automation",batch 35 by MARVELLEOUS INFOSYSTEMS class
+You will see all the Assignments related to "Python -Machine learning with automation and GenAI ",batch 35 by MARVELLEOUS INFOSYSTEMS class
