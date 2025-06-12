@@ -1,0 +1,12 @@
+Name         Marks
+Hemant 	     75
+Pragati      65
+Piyush       57
+Amit         35
+Abhishek     83
+Saurabh      89
+Swaraj       72
+Neha         72
+Roshan       77
+Durgesh      90
+Nitin        99
