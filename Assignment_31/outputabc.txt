@@ -1,0 +1,24 @@
+CodeNumber                  int64
+ClumpThickness              int64
+UniformityCellSize          int64
+UniformityCellShape         int64
+MarginalAdhesion            int64
+SingleEpithelialCellSize    int64
+BareNuclei                  int64
+BlandChromatin              int64
+NormalNucleoli              int64
+Mitoses                     int64
+CancerType                  int64
+dtype: object
+0      10
+1       2
+2       4
+3       1
+4      10
+       ..
+693     2
+694     1
+695     3
+696     4
+697     5
+Name: BareNuclei, Length: 698, dtype: int64
